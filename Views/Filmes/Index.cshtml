@@ -1,0 +1,40 @@
+@model IEnumerable<FilmesMVC.Models.FilmeViewModel>
+
+    <!--Inclua os TempData para Sucesso e Erro aqui, conforme exemplo na view de Autenticação-->
+
+    @{ViewBag.Title = "Filmes"; } <!--Título da página para o navegador-->
+    <h2>Relação de Filmes</h2> <!--Título da página-->
+
+    <p>     <!--Links apontando para views na mesma pasta-->
+        @Html.ActionLink("Inserir novo Filme", "Create")
+    </p>
+    <table class="table">
+        <tr> <!--Títulos das colunas da tabela-->
+            <th>@Html.DisplayNameFor(model => model.Id)</th>
+            <th>@Html.DisplayNameFor(model => model.Nome)</th>
+            <th>@Html.DisplayNameFor(model => model.AnoLancamento)</th>
+            <th>@Html.DisplayNameFor(model => model.Bilheteria)</th>
+            <th>@Html.DisplayNameFor(model => model.Duracao)</th>
+            <th>@Html.DisplayNameFor(model => model.Classificacao)</th>
+            <th>@Html.DisplayNameFor(model => model.Genero)</th>
+            <th></th>
+        </tr>
+        <!--Looping para escrever os dados na tabela-->
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nome)</td>
+                <td>@Html.DisplayFor(modelItem => item.AnoLancamento)</td>
+                <td>@Html.DisplayFor(modelItem => item.Bilheteria)</td>
+                <td>@Html.DisplayFor(modelItem => item.Duracao)</td>
+                <td>@Html.DisplayFor(modelItem => item.Classificacao)</td>
+                <td>@Html.DisplayFor(modelItem => item.Genero)</td>
+                <td> <!--Coluna para Links/botões-->
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id })
+                    @Html.ActionLink("Detalhes", "Details", new { id = item.Id })
+                    @Html.ActionLink("Deletar", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </table>
