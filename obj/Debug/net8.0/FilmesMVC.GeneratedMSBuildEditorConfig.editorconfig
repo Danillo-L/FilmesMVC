@@ -9,47 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FilmesMVC
 build_property.RootNamespace = FilmesMVC
-build_property.ProjectDir = d:\Danillo Lacerda 2DS\DS-I\FilmesMVC\
+build_property.ProjectDir = /home/danillo/Etec/DS/FilmesMVC/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Danillo Lacerda 2DS\DS-I\FilmesMVC
+build_property.MSBuildProjectDirectory = /home/danillo/Etec/DS/FilmesMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Danillo Lacerda 2DS/DS-I/FilmesMVC/Views/Filmes/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXENyZWF0ZS5jc2h0bWw=
+[/home/danillo/Etec/DS/FilmesMVC/Views/Filme/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsbWUvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Danillo Lacerda 2DS/DS-I/FilmesMVC/Views/Filmes/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEluZGV4LmNzaHRtbA==
+[/home/danillo/Etec/DS/FilmesMVC/Views/Filme/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsbWUvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Danillo Lacerda 2DS/DS-I/FilmesMVC/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/danillo/Etec/DS/FilmesMVC/Views/Filme/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsbWUvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Danillo Lacerda 2DS/DS-I/FilmesMVC/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/danillo/Etec/DS/FilmesMVC/Views/Filme/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsbWUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Danillo Lacerda 2DS/DS-I/FilmesMVC/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/danillo/Etec/DS/FilmesMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Danillo Lacerda 2DS/DS-I/FilmesMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/danillo/Etec/DS/FilmesMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Danillo Lacerda 2DS/DS-I/FilmesMVC/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/danillo/Etec/DS/FilmesMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Danillo Lacerda 2DS/DS-I/FilmesMVC/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/danillo/Etec/DS/FilmesMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Danillo Lacerda 2DS/DS-I/FilmesMVC/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-ykxeesr62s
+[/home/danillo/Etec/DS/FilmesMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/danillo/Etec/DS/FilmesMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/danillo/Etec/DS/FilmesMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fe5ak0ygoz

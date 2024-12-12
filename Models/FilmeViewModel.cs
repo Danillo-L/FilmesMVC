@@ -11,8 +11,6 @@ namespace FilmesMVC.Models
         public int Id { get; set; }
         public string Nome { get; set; } = string.Empty;
 
-        //FAZER DESCRIÇÃO
-
         public int AnoLancamento { get; set; }
         public decimal Bilheteria { get; set; }
         public TimeSpan Duracao { get; set; }

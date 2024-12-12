@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\FilmesMVC.props" />
+  <Import Project="../buildMultiTargeting/FilmesMVC.props" />
 </Project>

@@ -1,21 +1,27 @@
-@model RpgMvc.Models.PersonagemViewModel
+@model FilmesMVC.Models.FilmeViewModel
 @{
-    ViewBag.Title = "Novo Filme";
+    ViewBag.Title = "Editar Filme";
 }
-<!-- Insira aqui os TempoData de Sucesso e Erro para evitar tela da morte -->
-<h2>Cria um Novo Filme</h2>
+<h2>Editar dados do Filme</h2>
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
     <div class="form-horizontal">
         <hr />
         <div class="form-group">
+            @Html.LabelFor(model => model.Id, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-6">
+                @Html.EditorFor(model => model.Id, new { htmlAttributes = new { @class = "formcontrol",
+@readonly = "readonly" } })
+            </div>
+        </div>
+        <div class="form-group">
             @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-6">
                 @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control" } })
             </div>
         </div>
-
+        
         <div class="form-group">
             @Html.LabelFor(model => model.AnoLancamento, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-6">
@@ -26,17 +32,14 @@
         <div class="form-group">
             @Html.LabelFor(model => model.Bilheteria, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-6">
-                @Html.DropDownListFor(model => model.Bilheteria,
-                         Html.GetEnumSelectList(typeof(RpgMvc.Models.Enuns.ClasseEnum)),
-                         "---Selecione---", new { @class = "form-control" })
+                @Html.EditorFor(model => model.Bilheteria, new { htmlAttributes = new { @class = "form-control" } })
             </div>
         </div>
 
-                <div class="form-group">
+        <div class="form-group">
             @Html.LabelFor(model => model.Duracao, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-6">
-                @Html.DropDownListFor(model => model.Duracao, Html.GetEnumSelectList(typeof(RpgMvc.Models.Enuns.ClasseEnum)), 
-                    "---Selecione---", new { @class = "form-control" })
+                @Html.EditorFor(model => model.Duracao, new { htmlAttributes = new { @class = "form-control" } })
             </div>
         </div>
 
@@ -44,7 +47,7 @@
             @Html.LabelFor(model => model.Classificacao, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-6">
                 @Html.DropDownListFor(model => model.Classificacao,
-                         Html.GetEnumSelectList(typeof(RpgMvc.Models.Enuns.ClasseEnum)),
+                         Html.GetEnumSelectList(typeof(FilmesMVC.Models.Enuns.GeneroEnum)),
                          "---Selecione---", new { @class = "form-control" })
             </div>
         </div>
@@ -52,12 +55,17 @@
         <div class="form-group">
             @Html.LabelFor(model => model.Genero, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-6">
-                @Html.DropDownListFor(model => Genero.Classificacao,
-                         Html.GetEnumSelectList(typeof(RpgMvc.Models.Enuns.ClasseEnum)),
+                @Html.DropDownListFor(model => model.Genero,
+                         Html.GetEnumSelectList(typeof(FilmesMVC.Models.Enuns.GeneroEnum)),
                          "---Selecione---", new { @class = "form-control" })
             </div>
         </div>
 
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-6">
+                <input type="submit" value="Salvar alterações" class="btn btn-primary" />
+            </div>
+        </div>
     </div>
 }
 <div>

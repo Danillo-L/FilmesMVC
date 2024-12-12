@@ -1,36 +1,73 @@
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\appsettings.Development.json
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\appsettings.json
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\FilmesMVC.staticwebassets.runtime.json
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\FilmesMVC.exe
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\FilmesMVC.deps.json
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\FilmesMVC.runtimeconfig.json
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\FilmesMVC.dll
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\FilmesMVC.pdb
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.csproj.AssemblyReference.cache
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.GeneratedMSBuildEditorConfig.editorconfig
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.AssemblyInfoInputs.cache
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.AssemblyInfo.cs
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.csproj.CoreCompileInputs.cache
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.MvcApplicationPartsAssemblyInfo.cache
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.RazorAssemblyInfo.cache
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.RazorAssemblyInfo.cs
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\staticwebassets.build.json
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\staticwebassets.development.json
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\staticwebassets\msbuild.FilmesMVC.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FilmesMVC.props
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilmesMVC.props
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilmesMVC.props
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\scopedcss\bundle\FilmesMVC.styles.css
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\scopedcss\projectbundle\FilmesMVC.bundle.scp.css
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.csproj.Up2Date
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.dll
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\refint\FilmesMVC.dll
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.pdb
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\FilmesMVC.genruntimeconfig.cache
-D:\Danillo Lacerda 2DS\DS-I\FilmesMVC\obj\Debug\net8.0\ref\FilmesMVC.dll
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/appsettings.Development.json
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/appsettings.json
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/FilmesMVC.staticwebassets.runtime.json
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/FilmesMVC
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/FilmesMVC.deps.json
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/FilmesMVC.runtimeconfig.json
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/FilmesMVC.dll
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/FilmesMVC.pdb
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/danillo/Etec/FilmesMVC/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.csproj.AssemblyReference.cache
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.GeneratedMSBuildEditorConfig.editorconfig
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.AssemblyInfoInputs.cache
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.AssemblyInfo.cs
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.csproj.CoreCompileInputs.cache
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.MvcApplicationPartsAssemblyInfo.cache
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.RazorAssemblyInfo.cache
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.RazorAssemblyInfo.cs
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/staticwebassets.build.json
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/staticwebassets.development.json
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/staticwebassets/msbuild.FilmesMVC.Microsoft.AspNetCore.StaticWebAssets.props
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/staticwebassets/msbuild.build.FilmesMVC.props
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FilmesMVC.props
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FilmesMVC.props
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/staticwebassets.pack.json
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/scopedcss/bundle/FilmesMVC.styles.css
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/scopedcss/projectbundle/FilmesMVC.bundle.scp.css
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.csproj.CopyComplete
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.dll
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/refint/FilmesMVC.dll
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.pdb
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/FilmesMVC.genruntimeconfig.cache
+/home/danillo/Etec/FilmesMVC/obj/Debug/net8.0/ref/FilmesMVC.dll
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/appsettings.Development.json
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/appsettings.json
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/FilmesMVC.staticwebassets.runtime.json
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/FilmesMVC
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/FilmesMVC.deps.json
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/FilmesMVC.runtimeconfig.json
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/FilmesMVC.dll
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/FilmesMVC.pdb
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/danillo/Etec/DS/FilmesMVC/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.csproj.AssemblyReference.cache
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.GeneratedMSBuildEditorConfig.editorconfig
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.AssemblyInfoInputs.cache
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.AssemblyInfo.cs
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.csproj.CoreCompileInputs.cache
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.MvcApplicationPartsAssemblyInfo.cache
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.RazorAssemblyInfo.cache
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.RazorAssemblyInfo.cs
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.sourcelink.json
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/staticwebassets.build.json
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/staticwebassets.development.json
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/staticwebassets/msbuild.FilmesMVC.Microsoft.AspNetCore.StaticWebAssets.props
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/staticwebassets/msbuild.build.FilmesMVC.props
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FilmesMVC.props
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FilmesMVC.props
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/staticwebassets.pack.json
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/scopedcss/bundle/FilmesMVC.styles.css
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/scopedcss/projectbundle/FilmesMVC.bundle.scp.css
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.csproj.CopyComplete
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.dll
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/refint/FilmesMVC.dll
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.pdb
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/FilmesMVC.genruntimeconfig.cache
+/home/danillo/Etec/DS/FilmesMVC/obj/Debug/net8.0/ref/FilmesMVC.dll
